@@ -243,7 +243,7 @@ background-color: #041828;
 .frame-bg{
   height: 300px;
   /* background-color: white; */
-  background-image: url('D:\FSWD 23 forward\StudyNotion\studynotion\src\assets - Copy\Images\bghome.svg');
+ background-image: url('./assets\ -\ Copy/Images/bghome.svg');
   background-repeat:no-repeat ;
   background-size: cover;
   background-position: bottom;
